@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=linkedin&link=https://www.linkedin.com/in/navneet-a-684b3ba1/)](https://www.linkedin.com/in/navneet-a-684b3ba1/)
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=social&logo=gmail&link=mailto:navneet18348@iiitd.ac.in)](mailto:navneet18348@iiitd.ac.in)
 
-`Hey! I am Navneet, an undergraduate student at IIIT-Delhi majoring in Computer-Science. I am currently exploring research projects Machine Learning and Natural Language Processing. I also have a keen interest in software development`
+`Hey! I am Navneet, an undergraduate student at IIIT-Delhi majoring in Computer-Science. I am currently exploring the field of Machine Learning and Natural Language Processing. I also have a keen interest in software development`
 
 ![visitors](https://komarev.com/ghpvc/?username=navneet-ag)
 
