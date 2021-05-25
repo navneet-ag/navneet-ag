@@ -9,19 +9,9 @@
 
 ## My Recent projects
 
-- A Survey platform for @[SheroesDev](https://github.com/SheroesDev/) Org. [Platform link](https://sheroes.pages.dev/)
-- Fake news detection .
-- Offensive Language Identification. 
-- Created an app for efficient Organ and Blood Donation System(OBDS).
+- A [Survey platform](https://github.com/navneet-ag/Sheroes-Survey) for @[SheroesDev](https://github.com/SheroesDev/) Org. [Platform link](https://sheroes.pages.dev/)
+- [Fake news detection](https://github.com/navneet-ag/Fake-News-Detection). [Report](https://github.com/navneet-ag/Fake-News-Detection/blob/main/Covid_19_Fake_News_Detection_Task.pdf)
+- [Offensive Language Identification](https://github.com/navneet-ag/Hate-Speech-Detection).  [Report](https://github.com/navneet-ag/Hate-Speech-Detection/blob/main/finalReport.pdf)
+- Created an app for efficient [Organ and Blood Donation System(OBDS)](https://github.com/navneet-ag/OBDS-App). [Report](https://github.com/navneet-ag/OBDS-App/blob/master/Report.pdf)
 
-<!-- ## I am Familiar with the following
-
-[![Heroku](https://img.shields.io/badge/-Heroku-430098?style=social&logo=heroku&link=https://github.com/itissandeep98/)](https://github.com/itissandeep98/)
-[![Python3](https://img.shields.io/badge/-Python3-green?style=social&logo=python&link=https://github.com/itissandeep98/)](https://github.com/itissandeep98/)
-[![Java](https://img.shields.io/badge/-Java-orange?style=social&logo=java&link=https://github.com/itissandeep98/)](https://github.com/itissandeep98/)
-[![Javafx](https://img.shields.io/badge/-JavaFX-blue?style=social&logo=java&link=https://github.com/itissandeep98/)](https://github.com/itissandeep98/)
-[![MySQL](https://img.shields.io/badge/-MySQL-violet?style=social&logo=mysql&link=https://github.com/itissandeep98/)](https://github.com/itissandeep98/)
-[![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=social&logo=Raspberry-Pi&link=https://github.com/itissandeep98/)](https://github.com/itissandeep98/)
-[![Arduino](https://img.shields.io/badge/-Arduino-black?style=social&logo=Arduino&link=https://github.com/navneet-ag/)](https://github.com/navneet-ag/)
- -->
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=navneet-ag&theme=radical&layout=compact" alt="languages"/>
