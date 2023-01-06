@@ -1,7 +1,7 @@
 ## @navneet-ag
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=linkedin&link=https://www.linkedin.com/in/navneetagarwal20/)](https://www.linkedin.com/in/navneet-a-684b3ba1/)
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=social&logo=gmail&link=mailto:navneet18348@iiitd.ac.in)](mailto:navneet18348@iiitd.ac.in)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=social&logo=gmail&link=mailto:navneet18348@iiitd.ac.in)](mailto:navneetag20@gmail.com)
 
 `Hey! I am Navneet, a Software Development Engineer working in Adobe Inc. I graduated from IIIT-Delhi majoring in Computer-Science. I have a keen intereset in solving problems and software development.`
 
